@@ -413,8 +413,8 @@ export default function Footer() {
             © {new Date().getFullYear()} <strong>Start Autos</strong>. All rights reserved.
           </div>
           <div className="sa-footer-legal">
-            <a href="#">Privacy Policy</a>
-            <a href="#">Terms of Service</a>
+            <a href="/">Privacy Policy</a>
+            <a href="/">Terms of Service</a>
           </div>
         </div>
       </footer>
